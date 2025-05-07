@@ -1,0 +1,1 @@
+metaCR is a comprehensive catalogue of 149,326 prokaryotic chemoreceptor genes from GMGCv1, including MCPsignal-containing sequences and ligand-binding domain (LBD) annotations. Derived from 13,174 metagenomes across 14 environments, with full ecological metadata.
